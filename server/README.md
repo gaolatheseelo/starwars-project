@@ -1,3 +1,3 @@
-# Catstronauts - server
+# Starwars - server
 
-The starting point of the `server` code for Odyssey Lift-off I course.
+The server for the starwars project
